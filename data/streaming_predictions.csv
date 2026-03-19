@@ -1,0 +1,256 @@
+window,hour,zone,predicted_demand,precipitation,temperature,surge_alert
+1,6,BTM Layout,7.13,0.0,24.5,🟢 NORMAL
+1,6,Bannerghatta Road,6.35,0.0,24.5,🟢 NORMAL
+1,6,Bellandur,8.75,0.0,24.5,🟢 NORMAL
+1,6,Electronic City,9.69,0.0,24.5,🟢 NORMAL
+1,6,HSR Layout,7.69,0.0,24.5,🟢 NORMAL
+1,6,Hebbal,7.59,0.0,24.5,🟢 NORMAL
+1,6,Indiranagar,8.6,0.0,24.5,🟢 NORMAL
+1,6,Jayanagar,6.42,0.0,24.5,🟢 NORMAL
+1,6,Koramangala,8.99,0.0,24.5,🟢 NORMAL
+1,6,MG Road,9.7,0.0,24.5,🟢 NORMAL
+1,6,Marathahalli,9.72,0.0,24.5,🟢 NORMAL
+1,6,Sarjapur Road,7.32,0.0,24.5,🟢 NORMAL
+1,6,Whitefield,10.85,0.0,24.5,🟡 MEDIUM
+1,6,Yelahanka,4.93,0.0,24.5,🟢 NORMAL
+1,6,Yeshwanthpur,6.55,0.0,24.5,🟢 NORMAL
+2,7,BTM Layout,7.27,0.0,24.6,🟢 NORMAL
+2,7,Bannerghatta Road,6.16,0.0,24.6,🟢 NORMAL
+2,7,Bellandur,8.56,0.0,24.6,🟢 NORMAL
+2,7,Electronic City,9.44,0.0,24.6,🟢 NORMAL
+2,7,HSR Layout,7.56,0.0,24.6,🟢 NORMAL
+2,7,Hebbal,7.55,0.0,24.6,🟢 NORMAL
+2,7,Indiranagar,8.61,0.0,24.6,🟢 NORMAL
+2,7,Jayanagar,6.15,0.0,24.6,🟢 NORMAL
+2,7,Koramangala,8.85,0.0,24.6,🟢 NORMAL
+2,7,MG Road,9.68,0.0,24.6,🟢 NORMAL
+2,7,Marathahalli,9.96,0.0,24.6,🟢 NORMAL
+2,7,Sarjapur Road,7.57,0.0,24.6,🟢 NORMAL
+2,7,Whitefield,11.1,0.0,24.6,🟡 MEDIUM
+2,7,Yelahanka,4.99,0.0,24.6,🟢 NORMAL
+2,7,Yeshwanthpur,6.62,0.0,24.6,🟢 NORMAL
+3,8,BTM Layout,11.84,0.0,23.8,🟡 MEDIUM
+3,8,Bannerghatta Road,10.2,0.0,23.8,🟡 MEDIUM
+3,8,Bellandur,18.18,0.0,23.8,🔴 HIGH
+3,8,Electronic City,20.51,0.0,23.8,🔴 HIGH
+3,8,HSR Layout,12.35,0.0,23.8,🟡 MEDIUM
+3,8,Hebbal,12.31,0.0,23.8,🟡 MEDIUM
+3,8,Indiranagar,13.77,0.0,23.8,🟡 MEDIUM
+3,8,Jayanagar,10.32,0.0,23.8,🟡 MEDIUM
+3,8,Koramangala,14.76,0.0,23.8,🟡 MEDIUM
+3,8,MG Road,16.87,0.0,23.8,🔴 HIGH
+3,8,Marathahalli,20.35,0.0,23.8,🔴 HIGH
+3,8,Sarjapur Road,15.66,0.0,23.8,🔴 HIGH
+3,8,Whitefield,23.33,0.0,23.8,🔴 HIGH
+3,8,Yelahanka,8.3,0.0,23.8,🟢 NORMAL
+3,8,Yeshwanthpur,10.03,0.0,23.8,🟡 MEDIUM
+4,9,BTM Layout,11.8,0.0,25.6,🟡 MEDIUM
+4,9,Bannerghatta Road,10.03,0.0,25.6,🟡 MEDIUM
+4,9,Bellandur,18.38,0.0,25.6,🔴 HIGH
+4,9,Electronic City,20.31,0.0,25.6,🔴 HIGH
+4,9,HSR Layout,12.39,0.0,25.6,🟡 MEDIUM
+4,9,Hebbal,12.4,0.0,25.6,🟡 MEDIUM
+4,9,Indiranagar,14.11,0.0,25.6,🟡 MEDIUM
+4,9,Jayanagar,10.76,0.0,25.6,🟡 MEDIUM
+4,9,Koramangala,14.87,0.0,25.6,🟡 MEDIUM
+4,9,MG Road,17.1,0.0,25.6,🔴 HIGH
+4,9,Marathahalli,20.56,0.0,25.6,🔴 HIGH
+4,9,Sarjapur Road,15.81,0.0,25.6,🔴 HIGH
+4,9,Whitefield,22.86,0.0,25.6,🔴 HIGH
+4,9,Yelahanka,8.05,0.0,25.6,🟢 NORMAL
+4,9,Yeshwanthpur,10.18,0.0,25.6,🟡 MEDIUM
+5,10,BTM Layout,14.11,0.0,23.5,🟡 MEDIUM
+5,10,Bannerghatta Road,12.14,0.0,23.5,🟡 MEDIUM
+5,10,Bellandur,20.06,0.0,23.5,🔴 HIGH
+5,10,Electronic City,22.55,0.0,23.5,🔴 HIGH
+5,10,HSR Layout,14.11,0.0,23.5,🟡 MEDIUM
+5,10,Hebbal,14.12,0.0,23.5,🟡 MEDIUM
+5,10,Indiranagar,15.8,0.0,23.5,🔴 HIGH
+5,10,Jayanagar,12.21,0.0,23.5,🟡 MEDIUM
+5,10,Koramangala,16.55,0.0,23.5,🔴 HIGH
+5,10,MG Road,18.76,0.0,23.5,🔴 HIGH
+5,10,Marathahalli,22.26,0.0,23.5,🔴 HIGH
+5,10,Sarjapur Road,17.56,0.0,23.5,🔴 HIGH
+5,10,Whitefield,25.43,0.0,23.5,🔴 HIGH
+5,10,Yelahanka,9.42,0.0,23.5,🟢 NORMAL
+5,10,Yeshwanthpur,11.41,0.0,23.5,🟡 MEDIUM
+6,11,BTM Layout,6.59,0.0,23.5,🟢 NORMAL
+6,11,Bannerghatta Road,5.7,0.0,23.5,🟢 NORMAL
+6,11,Bellandur,8.2,0.0,23.5,🟢 NORMAL
+6,11,Electronic City,9.2,0.0,23.5,🟢 NORMAL
+6,11,HSR Layout,6.68,0.0,23.5,🟢 NORMAL
+6,11,Hebbal,6.69,0.0,23.5,🟢 NORMAL
+6,11,Indiranagar,7.85,0.0,23.5,🟢 NORMAL
+6,11,Jayanagar,5.59,0.0,23.5,🟢 NORMAL
+6,11,Koramangala,8.39,0.0,23.5,🟢 NORMAL
+6,11,MG Road,9.04,0.0,23.5,🟢 NORMAL
+6,11,Marathahalli,9.27,0.0,23.5,🟢 NORMAL
+6,11,Sarjapur Road,6.52,0.0,23.5,🟢 NORMAL
+6,11,Whitefield,10.47,0.0,23.5,🟡 MEDIUM
+6,11,Yelahanka,4.43,0.0,23.5,🟢 NORMAL
+6,11,Yeshwanthpur,6.0,0.0,23.5,🟢 NORMAL
+7,12,BTM Layout,9.35,0.0,24.2,🟢 NORMAL
+7,12,Bannerghatta Road,8.28,0.0,24.2,🟢 NORMAL
+7,12,Bellandur,10.64,0.0,24.2,🟡 MEDIUM
+7,12,Electronic City,12.63,0.0,24.2,🟡 MEDIUM
+7,12,HSR Layout,9.89,0.0,24.2,🟢 NORMAL
+7,12,Hebbal,9.89,0.0,24.2,🟢 NORMAL
+7,12,Indiranagar,11.1,0.0,24.2,🟡 MEDIUM
+7,12,Jayanagar,8.51,0.0,24.2,🟢 NORMAL
+7,12,Koramangala,12.01,0.0,24.2,🟡 MEDIUM
+7,12,MG Road,13.33,0.0,24.2,🟡 MEDIUM
+7,12,Marathahalli,12.73,0.0,24.2,🟡 MEDIUM
+7,12,Sarjapur Road,9.56,0.0,24.2,🟢 NORMAL
+7,12,Whitefield,14.38,0.0,24.2,🟡 MEDIUM
+7,12,Yelahanka,6.38,0.0,24.2,🟢 NORMAL
+7,12,Yeshwanthpur,8.76,0.0,24.2,🟢 NORMAL
+8,13,BTM Layout,9.24,0.0,22.3,🟢 NORMAL
+8,13,Bannerghatta Road,8.42,0.0,22.3,🟢 NORMAL
+8,13,Bellandur,10.72,0.0,22.3,🟡 MEDIUM
+8,13,Electronic City,13.04,0.0,22.3,🟡 MEDIUM
+8,13,HSR Layout,9.68,0.0,22.3,🟢 NORMAL
+8,13,Hebbal,9.7,0.0,22.3,🟢 NORMAL
+8,13,Indiranagar,10.85,0.0,22.3,🟡 MEDIUM
+8,13,Jayanagar,8.34,0.0,22.3,🟢 NORMAL
+8,13,Koramangala,11.47,0.0,22.3,🟡 MEDIUM
+8,13,MG Road,12.8,0.0,22.3,🟡 MEDIUM
+8,13,Marathahalli,12.87,0.0,22.3,🟡 MEDIUM
+8,13,Sarjapur Road,9.68,0.0,22.3,🟢 NORMAL
+8,13,Whitefield,14.75,0.0,22.3,🟡 MEDIUM
+8,13,Yelahanka,6.27,0.0,22.3,🟢 NORMAL
+8,13,Yeshwanthpur,8.61,0.0,22.3,🟢 NORMAL
+9,14,BTM Layout,10.11,1.38,23.0,🟡 MEDIUM
+9,14,Bannerghatta Road,9.39,1.38,23.0,🟢 NORMAL
+9,14,Bellandur,11.46,1.38,23.0,🟡 MEDIUM
+9,14,Electronic City,13.65,1.38,23.0,🟡 MEDIUM
+9,14,HSR Layout,10.29,1.38,23.0,🟡 MEDIUM
+9,14,Hebbal,10.42,1.38,23.0,🟡 MEDIUM
+9,14,Indiranagar,11.76,1.38,23.0,🟡 MEDIUM
+9,14,Jayanagar,9.3,1.38,23.0,🟢 NORMAL
+9,14,Koramangala,12.22,1.38,23.0,🟡 MEDIUM
+9,14,MG Road,13.26,1.38,23.0,🟡 MEDIUM
+9,14,Marathahalli,12.91,1.38,23.0,🟡 MEDIUM
+9,14,Sarjapur Road,9.75,1.38,23.0,🟢 NORMAL
+9,14,Whitefield,15.56,1.38,23.0,🔴 HIGH
+9,14,Yelahanka,6.43,1.38,23.0,🟢 NORMAL
+9,14,Yeshwanthpur,9.0,1.38,23.0,🟢 NORMAL
+10,15,BTM Layout,7.36,6.15,23.3,🟢 NORMAL
+10,15,Bannerghatta Road,5.92,6.15,23.3,🟢 NORMAL
+10,15,Bellandur,8.61,6.15,23.3,🟢 NORMAL
+10,15,Electronic City,11.48,6.15,23.3,🟡 MEDIUM
+10,15,HSR Layout,7.32,6.15,23.3,🟢 NORMAL
+10,15,Hebbal,6.76,6.15,23.3,🟢 NORMAL
+10,15,Indiranagar,8.43,6.15,23.3,🟢 NORMAL
+10,15,Jayanagar,5.66,6.15,23.3,🟢 NORMAL
+10,15,Koramangala,9.43,6.15,23.3,🟢 NORMAL
+10,15,MG Road,12.73,6.15,23.3,🟡 MEDIUM
+10,15,Marathahalli,10.77,6.15,23.3,🟡 MEDIUM
+10,15,Sarjapur Road,7.25,6.15,23.3,🟢 NORMAL
+10,15,Whitefield,12.35,6.15,23.3,🟡 MEDIUM
+10,15,Yelahanka,6.49,6.15,23.3,🟢 NORMAL
+10,15,Yeshwanthpur,7.36,6.15,23.3,🟢 NORMAL
+11,16,BTM Layout,9.6,3.59,24.1,🟢 NORMAL
+11,16,Bannerghatta Road,7.85,3.59,24.1,🟢 NORMAL
+11,16,Bellandur,9.86,3.59,24.1,🟢 NORMAL
+11,16,Electronic City,11.38,3.59,24.1,🟡 MEDIUM
+11,16,HSR Layout,7.91,3.59,24.1,🟢 NORMAL
+11,16,Hebbal,7.51,3.59,24.1,🟢 NORMAL
+11,16,Indiranagar,8.97,3.59,24.1,🟢 NORMAL
+11,16,Jayanagar,5.84,3.59,24.1,🟢 NORMAL
+11,16,Koramangala,9.96,3.59,24.1,🟢 NORMAL
+11,16,MG Road,11.13,3.59,24.1,🟡 MEDIUM
+11,16,Marathahalli,10.82,3.59,24.1,🟡 MEDIUM
+11,16,Sarjapur Road,7.99,3.59,24.1,🟢 NORMAL
+11,16,Whitefield,13.11,3.59,24.1,🟡 MEDIUM
+11,16,Yelahanka,6.44,3.59,24.1,🟢 NORMAL
+11,16,Yeshwanthpur,8.52,3.59,24.1,🟢 NORMAL
+12,17,BTM Layout,12.24,0.75,24.1,🟡 MEDIUM
+12,17,Bannerghatta Road,9.71,0.75,24.1,🟢 NORMAL
+12,17,Bellandur,18.66,0.75,24.1,🔴 HIGH
+12,17,Electronic City,20.98,0.75,24.1,🔴 HIGH
+12,17,HSR Layout,11.94,0.75,24.1,🟡 MEDIUM
+12,17,Hebbal,11.88,0.75,24.1,🟡 MEDIUM
+12,17,Indiranagar,14.48,0.75,24.1,🟡 MEDIUM
+12,17,Jayanagar,9.9,0.75,24.1,🟢 NORMAL
+12,17,Koramangala,14.98,0.75,24.1,🟡 MEDIUM
+12,17,MG Road,17.21,0.75,24.1,🔴 HIGH
+12,17,Marathahalli,21.04,0.75,24.1,🔴 HIGH
+12,17,Sarjapur Road,15.86,0.75,24.1,🔴 HIGH
+12,17,Whitefield,25.6,0.75,24.1,🔴 HIGH
+12,17,Yelahanka,7.38,0.75,24.1,🟢 NORMAL
+12,17,Yeshwanthpur,10.93,0.75,24.1,🟡 MEDIUM
+13,18,BTM Layout,14.19,4.61,23.4,🟡 MEDIUM
+13,18,Bannerghatta Road,11.69,4.61,23.4,🟡 MEDIUM
+13,18,Bellandur,21.15,4.61,23.4,🔴 HIGH
+13,18,Electronic City,23.06,4.61,23.4,🔴 HIGH
+13,18,HSR Layout,13.7,4.61,23.4,🟡 MEDIUM
+13,18,Hebbal,12.52,4.61,23.4,🟡 MEDIUM
+13,18,Indiranagar,14.84,4.61,23.4,🟡 MEDIUM
+13,18,Jayanagar,9.57,4.61,23.4,🟢 NORMAL
+13,18,Koramangala,15.21,4.61,23.4,🔴 HIGH
+13,18,MG Road,17.21,4.61,23.4,🔴 HIGH
+13,18,Marathahalli,21.85,4.61,23.4,🔴 HIGH
+13,18,Sarjapur Road,17.92,4.61,23.4,🔴 HIGH
+13,18,Whitefield,27.2,4.61,23.4,🔴 HIGH
+13,18,Yelahanka,8.35,4.61,23.4,🟢 NORMAL
+13,18,Yeshwanthpur,10.14,4.61,23.4,🟡 MEDIUM
+14,19,BTM Layout,13.61,2.73,23.0,🟡 MEDIUM
+14,19,Bannerghatta Road,11.3,2.73,23.0,🟡 MEDIUM
+14,19,Bellandur,20.82,2.73,23.0,🔴 HIGH
+14,19,Electronic City,23.08,2.73,23.0,🔴 HIGH
+14,19,HSR Layout,13.01,2.73,23.0,🟡 MEDIUM
+14,19,Hebbal,12.98,2.73,23.0,🟡 MEDIUM
+14,19,Indiranagar,15.15,2.73,23.0,🔴 HIGH
+14,19,Jayanagar,10.52,2.73,23.0,🟡 MEDIUM
+14,19,Koramangala,15.92,2.73,23.0,🔴 HIGH
+14,19,MG Road,18.21,2.73,23.0,🔴 HIGH
+14,19,Marathahalli,22.08,2.73,23.0,🔴 HIGH
+14,19,Sarjapur Road,17.11,2.73,23.0,🔴 HIGH
+14,19,Whitefield,27.32,2.73,23.0,🔴 HIGH
+14,19,Yelahanka,7.59,2.73,23.0,🟢 NORMAL
+14,19,Yeshwanthpur,10.89,2.73,23.0,🟡 MEDIUM
+15,20,BTM Layout,11.21,0.0,24.8,🟡 MEDIUM
+15,20,Bannerghatta Road,8.74,0.0,24.8,🟢 NORMAL
+15,20,Bellandur,18.7,0.0,24.8,🔴 HIGH
+15,20,Electronic City,21.01,0.0,24.8,🔴 HIGH
+15,20,HSR Layout,12.07,0.0,24.8,🟡 MEDIUM
+15,20,Hebbal,12.18,0.0,24.8,🟡 MEDIUM
+15,20,Indiranagar,14.86,0.0,24.8,🟡 MEDIUM
+15,20,Jayanagar,9.95,0.0,24.8,🟢 NORMAL
+15,20,Koramangala,15.44,0.0,24.8,🔴 HIGH
+15,20,MG Road,17.58,0.0,24.8,🔴 HIGH
+15,20,Marathahalli,21.2,0.0,24.8,🔴 HIGH
+15,20,Sarjapur Road,16.22,0.0,24.8,🔴 HIGH
+15,20,Whitefield,25.23,0.0,24.8,🔴 HIGH
+15,20,Yelahanka,6.77,0.0,24.8,🟢 NORMAL
+15,20,Yeshwanthpur,10.37,0.0,24.8,🟡 MEDIUM
+16,21,BTM Layout,6.78,0.0,24.2,🟢 NORMAL
+16,21,Bannerghatta Road,5.57,0.0,24.2,🟢 NORMAL
+16,21,Bellandur,8.51,0.0,24.2,🟢 NORMAL
+16,21,Electronic City,10.39,0.0,24.2,🟡 MEDIUM
+16,21,HSR Layout,7.19,0.0,24.2,🟢 NORMAL
+16,21,Hebbal,7.48,0.0,24.2,🟢 NORMAL
+16,21,Indiranagar,9.43,0.0,24.2,🟢 NORMAL
+16,21,Jayanagar,6.96,0.0,24.2,🟢 NORMAL
+16,21,Koramangala,9.76,0.0,24.2,🟢 NORMAL
+16,21,MG Road,10.8,0.0,24.2,🟡 MEDIUM
+16,21,Marathahalli,10.06,0.0,24.2,🟡 MEDIUM
+16,21,Sarjapur Road,7.16,0.0,24.2,🟢 NORMAL
+16,21,Whitefield,11.52,0.0,24.2,🟡 MEDIUM
+16,21,Yelahanka,4.32,0.0,24.2,🟢 NORMAL
+16,21,Yeshwanthpur,6.06,0.0,24.2,🟢 NORMAL
+17,22,BTM Layout,7.54,0.0,22.7,🟢 NORMAL
+17,22,Bannerghatta Road,6.68,0.0,22.7,🟢 NORMAL
+17,22,Bellandur,9.35,0.0,22.7,🟢 NORMAL
+17,22,Electronic City,10.62,0.0,22.7,🟡 MEDIUM
+17,22,HSR Layout,7.56,0.0,22.7,🟢 NORMAL
+17,22,Hebbal,7.71,0.0,22.7,🟢 NORMAL
+17,22,Indiranagar,9.52,0.0,22.7,🟢 NORMAL
+17,22,Jayanagar,6.85,0.0,22.7,🟢 NORMAL
+17,22,Koramangala,9.36,0.0,22.7,🟢 NORMAL
+17,22,MG Road,10.41,0.0,22.7,🟡 MEDIUM
+17,22,Marathahalli,10.35,0.0,22.7,🟡 MEDIUM
+17,22,Sarjapur Road,7.61,0.0,22.7,🟢 NORMAL
+17,22,Whitefield,12.33,0.0,22.7,🟡 MEDIUM
+17,22,Yelahanka,5.66,0.0,22.7,🟢 NORMAL
+17,22,Yeshwanthpur,7.18,0.0,22.7,🟢 NORMAL
