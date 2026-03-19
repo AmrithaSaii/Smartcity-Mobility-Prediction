@@ -1,4 +1,5 @@
 models/rf_model.pkl
+data/merged_data.csv
 __pycache__/
 *.pyc
 .env
